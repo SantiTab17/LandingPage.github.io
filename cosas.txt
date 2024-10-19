@@ -1,0 +1,6 @@
+<h2>¿Qué servicios ofrece la tienda?</h2>
+        <ul>
+            <li>Servicio de reparación de consolas</li>
+            <li>Venta de accesorios para consolas y Computadoras</li>
+            <li>reparación de computadoras</li>
+        </ul>
